@@ -1,0 +1,137 @@
+
+body{margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 110%;
+    color:#40514E;
+
+
+  }
+
+hr{width:80px;
+   color: gray;
+ margin:100px auto;}
+
+.a{
+    color:#11999E;
+    text-decoration: none;
+
+  }
+img.rounded-corners{
+  border-radius: 30%;
+}
+
+h1{margin-top: 0;
+ width:100%;
+ color: #66BFBF;
+margin:auto;
+position: relative;
+top:60px;
+font-family:'Sacramento', cursive;
+font-size: 5rem;}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  margin:40px;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+  font-weight: bold;
+
+}
+
+.headings{
+  position: relative;
+  top:40px;
+  font-size: 1.45rem;
+ color: #66BFBF;
+}
+
+
+div{
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.upper_container
+{
+  background-color: #EAF6F6;
+  padding:20px;
+  height:95vh;
+}
+
+
+
+.cloud1{
+  position:relative;
+  right:400px;
+  top:150px;
+}
+.cloud2{
+  position:absolute;
+  top:40px;
+}
+
+.mountain{
+  position:relative;
+      top: -10px;
+}
+
+.skills{
+  width: 70%;
+}
+
+.skill-row{
+  width:80%;
+  margin:100 auto 100 auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.web-img{
+  width:40%;
+  float:left;
+  margin-right: 30px;
+}
+
+.python-img{
+  width:40%;
+  float:right;
+  margin-right: 30px;
+}
+
+.Data-img{
+  width:40%;
+  float:left;
+  margin-right: 30px;
+}
+
+.btn {
+  background-color:#69DADB;
+  border-radius: 25px;
+  border: none;
+  color: white;
+  padding: 12px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 15px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.footer-link{
+  padding: 12px;
+  color: #11999E;
+  text-decoration: none;
+  font-size: 22px;
+  width: 25%;
+}
+
+.btn:hover {
+  background-color: #4CAF50;
+  color: white;}
