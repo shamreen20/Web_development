@@ -1,1 +1,12 @@
+E-commerce App Description:
 
+1. Anytime we want to visit the server inside our browser, we send a network request from page to NodeJs server.
+2. Configure the server to receive network request that help in decide what request the user is looking for, then generate some HTML and send HTML back over the 
+   users browser.
+3. Our Server is responsible different snippits or kind of portion of HTML and then accemble all of them together, every single time a users makes a request. i.e
+    it allows us a different cart of each users or update a list of items display by the users or anything else inside our application.
+    
+4. This is the fact we dynamically generate HTML on our server, that makes our application dynamic and changing.
+5. We also allow to store, some amount of information related to our application. 
+    Such as items in users cart, Different users, who sign-up at the application admistration.
+6. We build our own custom file based DataSet.
