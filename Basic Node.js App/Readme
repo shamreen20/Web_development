@@ -12,6 +12,6 @@
  4. Make MVC architecture( model, view, controller)
  # model help to maintain Data like fetch , save etc
  # view is used for templates and decoupled from your application code.
- # controller connectind models to view and contain in-between logic.
+ # controller connecting models to view and contain in-between logic.
  
  5. Create Databse using Mongo-DB(Mongoose) framework.
