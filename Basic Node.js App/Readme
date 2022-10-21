@@ -1,0 +1,17 @@
+# Web servers works:-
+  
+  1. Run Server --> Create server & listen the incoming request.
+  2. Bussines logic --> Handle requests, validate Input, Connect to Database.
+  3. Response --> Return responses(Rendered HTML, JSON...).
+  
+ NodeJS project steps:-
+ 
+ 1. Create server using express, nodemon, body-parser.
+ 2. Crete EJS template(HTML Template) for user interaction.
+ 3. Routing between files and folders
+ 4. Make MVC architecture( model, view, controller)
+ # model help to maintain Data like fetch , save etc
+ # view is used for templates and decoupled from your application code.
+ # controller connectind models to view and contain in-between logic.
+ 
+ 5. Create Databse using Mongo-DB(Mongoose) framework.
