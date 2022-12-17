@@ -20,7 +20,7 @@ app.use('/feed', feedRoutes);
 
 mongoose
   .connect(
-    'mongodb+srv://<ShamreenTabassum>:plX64YtmlPY8vFUY@cluster0.uuxosil.mongodb.net/Blogs?retryWrites=true'
+    'mongodb+srv://URL HERE.uuxosil.mongodb.net/Blogs?retryWrites=true'
     
     )
   .then(result => {
